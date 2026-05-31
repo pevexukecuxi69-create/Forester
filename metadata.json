@@ -1,0 +1,6 @@
+{
+  "name": "Forester Crane Redesign Concept",
+  "description": "High-fidelity human-centric industrial web app and interactive configurator for Forester Crane B2B equipment, powered by a customized server-side Gemini AI Technical Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
